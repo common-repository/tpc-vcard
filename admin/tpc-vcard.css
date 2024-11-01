@@ -1,0 +1,11 @@
+.tpc-vcard-import-form {
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	-moz-border-radius: 4px;
+	-khtml-border-radius: 4px;
+	-webkit-border-radius: 4px;
+}
+
+.tpc-vcard-import-form h3 {
+	margin: 0;
+}
